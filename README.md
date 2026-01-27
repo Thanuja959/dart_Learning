@@ -37,6 +37,6 @@ as I progress.
 
 ## ▶️ How to run the code
 
-1. Make sure Dart is installed  
+  Make sure Dart is installed  
    ```bash
    dart --version
